@@ -11,8 +11,8 @@
 	<groupId>com.travelbooking</groupId>
 	<artifactId>backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<name>Travel Booking Portal Backend</name>
+	<description>Backend for Travel Booking Portal using Spring Book</description>
 	<url/>
 	<licenses>
 		<license/>
